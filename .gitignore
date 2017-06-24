@@ -2,3 +2,5 @@ node_modules/**/*
 bower_components/**/*
 src/images/bin/**/*.*
 src/bin/**/*.*
+test/**/*
+tests/**/*
