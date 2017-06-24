@@ -1,0 +1,19 @@
+{
+  "name": "demicolorcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectSoft-STUDIONIONS/DemiColorCode.git"
+  },
+  "author": "ProjectSoft <projectsoft2009@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProjectSoft-STUDIONIONS/DemiColorCode/issues"
+  },
+  "homepage": "https://github.com/ProjectSoft-STUDIONIONS/DemiColorCode#readme"
+}
