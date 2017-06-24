@@ -3,7 +3,7 @@ module.exports = function(grunt){
 		imageNotyfy: __dirname+'\\src\\notify.png',
 		minifyHtml: false,
 		minifyCss: true,
-		theme: 'assets/demicolor/'
+		theme: 'docs/assets/demicolor/'
 	};
 	require('load-grunt-tasks')(grunt);
 	require('time-grunt')(grunt);
@@ -150,7 +150,7 @@ module.exports = function(grunt){
 						expand: true,
 						cwd: 'src/jade',
 						src: ['index.jade'],
-						dest: '',
+						dest: 'docs/',
 						ext: '.html'
 					}
 				]
