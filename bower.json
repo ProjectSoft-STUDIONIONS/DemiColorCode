@@ -13,5 +13,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^1.12.4",
+    "jquery-ui": "https://github.com/components/jqueryui.git#1.12.1",
+    "jqueryui-touch-punch": "https://github.com/furf/jquery-ui-touch-punch.git"
+  }
 }
